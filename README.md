@@ -1,4 +1,4 @@
-*** INCOMPLETE ***
+*** This repository is incomplete. IN PROGRESS ***
 
 # RDD_age_disc
 Online appendix of the project
