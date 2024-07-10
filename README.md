@@ -7,8 +7,8 @@ by [Bruno Decreuse](https://sites.google.com/site/brunodecreuseecon/) (Aix-Marse
 This repository contains the Julia code used in the project and the data gathered from the four cases. The code is written with Jupyter notebooks and runs with Julia 1.9. GitHub can directly display these notebooks. When GitHub does not manage to display a notebook, we suggest using the url on GitHub with the viewer https://nbviewer.jupyter.org/.
 
 The folder `data` contains the four datasets.
-The folder `interpretationbias` contains a code that computes the parameters for Figure 1.
-The folder `simulation` contains the codes that calibrate and simulate the models in the four cases.
+The folder `code/interpretationbias` contains a code that computes the parameters for Figure 1.
+The folder `code/simulation` contains the codes that calibrate and simulate the models in the four cases.
 
 ### Data
 The four datasets are extracted from the following graphs: Figure 3 in Lemieux and Milligan (2008) for Canada; Figure 4, left panel, in Bargain and Doorley (2011) for France; Figure 2 in Lalive (2008) for Austria; Figure 3 in Schmieder et al. (2012) for Germany.
@@ -26,3 +26,5 @@ Everything can run on a personal computer, except the 3D graphs for Austria and 
 The versions with the extension `GER_UI` calibrate and simulate the model with the extended calibration (see online appendix).
 
 The outputs of `simu_C.ipynb` are exported in html files in the folder `html`. These files show all the graphs and tables (except the 3D graphs for Austria and Germany). 
+
+
