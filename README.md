@@ -1,6 +1,6 @@
 # RDD_age_disc
 Replication package of the project
-'Age discontinuity and nonemployment benefit policy evaluation through the lens of job search theory'
+['Age discontinuity and nonemployment benefit policy evaluation through the lens of job search theory'](http://doi.org/10.1111/iere.12726)
 by [Bruno Decreuse](https://sites.google.com/site/brunodecreuseecon/) (Aix-Marseille Univ.) and [Guillaume Wilemme](https://gwilemme.github.io/) (Univ. of Leicester).
 
 ### Structure of the repository
